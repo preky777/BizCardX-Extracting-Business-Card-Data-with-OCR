@@ -58,7 +58,7 @@ BizCardX revolutionizes the way you handle business cards, eliminating manual da
    This code defines the layout and content of the home page for the "Bizcard App." It provides a brief introduction to the app's functionality and prompts the user to click the "Get Started" button to proceed to the next page, which appears to be for extracting and modifying business card data using OCR.
 
 
-        * st.title("Bizcard App"): Sets the title of the web application to "Bizcard App".
+         * st.title("Bizcard App"): Sets the title of the web application to "Bizcard App".
 
          * st.write(""" ... """, unsafe_allow_html=True): Writes the HTML content provided within triple quotes to the web application. This HTML content seems to define the layout and text displayed on the home page. The HTML content contains a heading, a couple of paragraphs, and a button.
 
