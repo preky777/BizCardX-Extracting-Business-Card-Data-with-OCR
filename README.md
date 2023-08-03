@@ -77,7 +77,7 @@ BizCardX revolutionizes the way you handle business cards, eliminating manual da
      The ext_mod_page() function handles different aspects of the business card processing, depending on the option selected by the user. It offers features to upload, extract, modify, and delete business card data interactively.
   
 
-           The function displays a title and a radio button group with three options: "Upload, Extract And Save To Database," "Update And Save To Database," and "Delete From The Database." Based on the selected option, different sections are shown.
+           The function displays a title and a radio button group with three options: "Upload, Extract And Save Card To Database," "Update And Save Card To Database," and "Delete Card From The Database." Based on the selected option, different sections are shown.
 
             Section 1: Upload & Extract
          
@@ -88,14 +88,14 @@ BizCardX revolutionizes the way you handle business cards, eliminating manual da
      
             Section 2: Modify
          
-            - Displays when "Update And Save To Database" is selected.
+            - Displays when "Update And Save Card To Database" is selected.
             - Allows users to select a card holder from a list and modify their information.
             - Provides a button to update the modified data in the database.
             - Shows a button to view all updated data in a DataFrame.
      
             Section 3: Delete
          
-            - Displays when "Delete From The Database" is selected.
+            - Displays when "Delete Card From The Database" is selected.
             - Allows users to select a card holder from a list for deletion.
             - Shows a warning message with an emoji for confirmation.
             - Provides a button to delete the selected card holder's information from the database.
@@ -105,12 +105,24 @@ BizCardX revolutionizes the way you handle business cards, eliminating manual da
 
 
 ## App Screenshots
-![Screenshot (1)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/56c57229-3bf5-4927-b298-a1f990bab38d)
-![Screenshot (2)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/cb3b47bf-8731-44ee-92ff-4a0af070a4e2)
-![Screenshot (3)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/f33e9fdd-e4d1-4882-8152-c0fc11ccaf66)
-![Screenshot (4)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/075591f3-1e79-490c-904b-e3fb559b103a)
-![Screenshot (8)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/717bf705-773d-4f54-9c38-48c5fe06f187)
-![Screenshot (9)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/70edcff4-f72c-423b-b734-f938f5bacfab)
-![Screenshot (10)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/3506982a-bb98-4483-bb89-dc7dc4132a63)
-![Screenshot (11)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/b8803ba1-dab3-452f-b3f0-2d1d3fc02477)
-![Screenshot (12)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/4977091a-efaf-4d6e-8f8c-01789086c38c)
+![Screenshot (13)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/77a31be3-6e47-4db1-91ec-61682b70b198)
+
+![Screenshot (14)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/3fca61a4-c803-4f2e-9162-c33d9abb8449)
+
+![Screenshot (15)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/ff094a49-c0a3-4096-a68f-861a1182f7a9)
+
+![Screenshot (23)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/03eef43d-7f8c-481b-8170-4be5b0d0945a)
+
+![Screenshot (16)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/495c738f-37e6-495d-943f-93be23803da3)
+
+![Screenshot (17)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/c99ec88a-cac4-48ae-9873-6fc504a24de4)
+
+![Screenshot (18)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/a58fe8c8-d85c-4a9d-bb13-101bd74352fb)
+
+![Screenshot (19)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/dfbe63ea-9ae7-441b-8e86-3277b3660486)
+
+![Screenshot (20)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/fb8609f5-64c1-422d-ba00-9f4aac3cec9c)
+
+![Screenshot (21)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/48fd588f-6f2c-49fd-b665-87f5f2a0df78)
+
+![Screenshot (22)](https://github.com/preky777/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/107749942/87580365-2fe8-42ce-8418-e7263c1cdac2)
